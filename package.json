@@ -1,0 +1,11 @@
+{
+  "name": "ColumChat",
+  "version": "0.0.0",
+  "description": "What am I doing with my life?",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "author": "Luke Berry"
+}
